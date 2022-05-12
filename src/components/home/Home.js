@@ -3,6 +3,7 @@ import Tours from "../tours/Tours";
 import Footer from "../footer/Footer";
 import data from "../../data/db.json";
 import './Home.css';
+import {Routes, Route} from 'react-router-dom';
 function Home() {
     return (
         <>
@@ -13,3 +14,4 @@ function Home() {
     )
 }
 export default Home;
+
