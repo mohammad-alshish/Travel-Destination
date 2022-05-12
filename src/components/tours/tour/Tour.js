@@ -1,0 +1,1 @@
+import "src/components/tours/tour/Tour.css"

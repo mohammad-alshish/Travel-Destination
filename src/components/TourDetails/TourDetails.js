@@ -1,0 +1,1 @@
+import "../TourDetails/TourDetails.css"
