@@ -3,13 +3,13 @@ import Tours from "../tours/Tours";
 import Footer from "../footer/Footer";
 import data from "../../data/db.json";
 import './Home.css';
-import {Routes, Route} from 'react-router-dom';
-function Home() {
+//import { Routes, Route} from "react-router-dom";
+function Home(props) {
     return (
-        <>
-            <Header />
-            <Tours data={data} />
-            <Footer />
+        <> 
+         <Header/> 
+         <Tours data={data} />
+         <Footer/>
         </>
     )
 }

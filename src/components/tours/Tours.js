@@ -1,4 +1,5 @@
 import './Tours.css';
+import { Routes, Route} from "react-router-dom";
 function tours(props) {
     return (
         <>

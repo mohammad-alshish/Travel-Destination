@@ -1,10 +1,27 @@
 *{
-    background-color: bisque;
     text-align: center;
+    text-decoration: none;
+    font-family: 'Trebuchet MS';
+    background-color:navajowhite;
+    border: 20px,solid,black;
+    
+    
 }
 
  #head{
     font-size: 100px;
     text-align: center;
-    color: brown;
+    color:rgb(0, 0, 0);
+    background-color:lightsalmon ;
 } 
+
+#NAV {
+font-size: 75px;
+/* background-color:lightsalmon ; */
+display: inline;
+align-content: space-between;
+}
+#click{
+    background-color: rgb(255, 255, 255);
+   
+}
