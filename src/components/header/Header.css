@@ -2,7 +2,7 @@
     text-align: center;
     text-decoration: none;
     font-family: 'Trebuchet MS';
-    background-color:navajowhite;
+    /* background-color:navajowhite;  */
     border: 20px,solid,black;
     
     
@@ -16,7 +16,7 @@
 } 
 
 #NAV {
-font-size: 75px;
+font-size: 25px;
 /* background-color:lightsalmon ; */
 display: inline;
 align-content: space-between;
